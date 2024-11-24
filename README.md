@@ -1,2 +1,2 @@
 # Sber_Recsys
-Sber Recsys Hack
+Перед сабмитом проверить строчку с model.to_cpu() 
